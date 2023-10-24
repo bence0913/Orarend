@@ -1,1 +1,82 @@
-# orarend
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Órarend</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table style="width:60%">
+        <td colspan="6"> Órarend</td>
+        <tr>
+            <th></th>
+          <th>Hétfő</th>
+          <th>Kedd</th>
+          <th>Szerda</th>
+          <th>Csütörtök</th>
+          <th>Péntek</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Nyelvtan</td>
+          <td>Irodalom</td>
+          <td>Matek</td>
+          <td>Földrajz</td>
+          <td>Matek</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Matek</td>
+          <td>Földrajz</td>
+          <td>Kémia</td>
+          <td>Testnevelés</td>
+          <td>Fizika</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Angol</td>
+          <td>Angol</td>
+          <td>Német</td>
+          <td>Testnevelés</td>
+          <td>Biológia</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Testnevelés</td>
+          <td>Fizika</td>
+          <td>Földrajz</td>
+          <td>Német</td>
+          <td>Irodalom</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Történelem</td>
+          <td>Kémia</td>
+          <td>Kémia</td>
+          <td>Matek</td>
+          <td>Angol</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Biológia</td>
+          <td>Matek</td>
+          <td>Földrajz</td>
+          <td>Testnevelés</td>
+          <td>Biológia</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Földrajz</td>
+            <td>Testnevelés</td>
+            <td>Nyelvtan</td>
+            <td>Történelem</td>
+            <td>Informatika</td>
+        </tr>
+      </table>
+      
+      </body>
+      </html>
+</body>
+</html>
